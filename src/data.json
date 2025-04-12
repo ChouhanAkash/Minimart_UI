@@ -1,0 +1,456 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Tata Salt 1kg",
+        "price": 33,
+        "discount": 10,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "Tata Salt with high quality and best taste"
+      },
+      {
+        "id": 2,
+        "name": "Cookies 1kg",
+        "price": 490,
+        "discount": 15,
+        "category": "Bakery",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Cookies with high quality and best taste"
+      },
+      {
+        "id": 3,
+        "name": "Domex 3kg",
+        "price": 306,
+        "discount": 15,
+        "category": "Household",
+        "image": "https://i.imgur.com/0y8Ftya.jpg",
+        "description": "Domex with high quality and best taste"
+      },
+      {
+        "id": 4,
+        "name": "Lays Chips 5kg",
+        "price": 117,
+        "discount": 17,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Lays Chips with high quality and best taste"
+      },
+      {
+        "id": 5,
+        "name": "Bru Coffee 3kg",
+        "price": 486,
+        "discount": 26,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/UPrs1EWl.jpg",
+        "description": "Bru Coffee with high quality and best taste"
+      },
+      {
+        "id": 6,
+        "name": "Butter Pack 1kg",
+        "price": 298,
+        "discount": 6,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Butter Pack with high quality and best taste"
+      },
+      {
+        "id": 7,
+        "name": "Face Wash 5kg",
+        "price": 212,
+        "discount": 13,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Face Wash with high quality and best taste"
+      },
+      {
+        "id": 8,
+        "name": "Frozen Peas 1kg",
+        "price": 322,
+        "discount": 23,
+        "category": "Frozen",
+        "image": "https://i.imgur.com/OKKEvyLl.jpg",
+        "description": "Frozen Peas with high quality and best taste"
+      },
+      {
+        "id": 9,
+        "name": "Cheese Slice 1kg",
+        "price": 123,
+        "discount": 29,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/EXp4v2bl.jpg",
+        "description": "Cheese Slice with high quality and best taste"
+      },
+      {
+        "id": 10,
+        "name": "Colgate Toothpaste 5kg",
+        "price": 499,
+        "discount": 7,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Colgate Toothpaste with high quality and best taste"
+      },
+      {
+        "id": 11,
+        "name": "Maggi Noodles 280g",
+        "price": 45,
+        "discount": 5,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/ZXBtVw7.jpg",
+        "description": "Maggi Noodles tasty and instant meal"
+      },
+      {
+        "id": 12,
+        "name": "Aashirvaad Atta 5kg",
+        "price": 210,
+        "discount": 12,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "High quality whole wheat flour"
+      },
+      {
+        "id": 13,
+        "name": "Amul Milk 1L",
+        "price": 60,
+        "discount": 8,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Fresh and pure Amul milk"
+      },
+      {
+        "id": 14,
+        "name": "Bournvita Jar 750g",
+        "price": 260,
+        "discount": 10,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/0y8Ftya.jpg",
+        "description": "Bournvita health drink for kids and adults"
+      },
+      {
+        "id": 15,
+        "name": "Kissan Jam 500g",
+        "price": 130,
+        "discount": 5,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/UPrs1EWl.jpg",
+        "description": "Tasty fruit jam for breakfast"
+      },
+      {
+        "id": 16,
+        "name": "Good Day Biscuits",
+        "price": 25,
+        "discount": 4,
+        "category": "Bakery",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Crunchy and delicious biscuits"
+      },
+      {
+        "id": 17,
+        "name": "Coconut Oil 500ml",
+        "price": 115,
+        "discount": 10,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/OKKEvyLl.jpg",
+        "description": "Pure coconut oil for hair and skin"
+      },
+      {
+        "id": 18,
+        "name": "Frozen French Fries",
+        "price": 180,
+        "discount": 14,
+        "category": "Frozen",
+        "image": "https://i.imgur.com/EXp4v2bl.jpg",
+        "description": "Crispy frozen fries for snacks"
+      },
+      {
+        "id": 19,
+        "name": "Horlicks Health Drink",
+        "price": 290,
+        "discount": 15,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/UPrs1EWl.jpg",
+        "description": "Nutritious health drink for energy"
+      },
+      {
+        "id": 20,
+        "name": "Lifebuoy Handwash 750ml",
+        "price": 149,
+        "discount": 11,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "Kills germs and protects hands"
+      },
+      {
+        "id": 21,
+        "name": "Santoor Soap Pack",
+        "price": 90,
+        "discount": 9,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/0y8Ftya.jpg",
+        "description": "Soft and fragrant bathing soap"
+      },
+      {
+        "id": 22,
+        "name": "Dettol Sanitizer 200ml",
+        "price": 95,
+        "discount": 7,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Instant hand sanitizer kills 99.9% germs"
+      },
+      {
+        "id": 23,
+        "name": "Butter Milk 1L",
+        "price": 40,
+        "discount": 4,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Refreshing and healthy buttermilk"
+      },
+      {
+        "id": 24,
+        "name": "Fortune Rice Bran Oil 1L",
+        "price": 160,
+        "discount": 10,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/EXp4v2bl.jpg",
+        "description": "Healthy cooking oil for daily use"
+      },
+      {
+        "id": 25,
+        "name": "Surf Excel 1kg",
+        "price": 199,
+        "discount": 8,
+        "category": "Household",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Powerful stain remover detergent"
+      },
+      {
+        "id": 26,
+        "name": "Peanut Butter 500g",
+        "price": 180,
+        "discount": 12,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/OKKEvyLl.jpg",
+        "description": "High protein spread for breakfast"
+      },
+      {
+        "id": 27,
+        "name": "Paneer 500g",
+        "price": 140,
+        "discount": 9,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/ZXBtVw7.jpg",
+        "description": "Fresh cottage cheese rich in protein"
+      },
+      {
+        "id": 28,
+        "name": "Tropicana Juice 1L",
+        "price": 110,
+        "discount": 6,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Delicious fruit juice with no added sugar"
+      },
+      {
+        "id": 29,
+        "name": "Kurkure Masala 100g",
+        "price": 20,
+        "discount": 3,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Spicy crunchy snacks"
+      },
+      {
+        "id": 30,
+        "name": "Dabur Honey 250g",
+        "price": 125,
+        "discount": 7,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Natural and healthy honey"
+      },
+      {
+        "id": 31,
+        "name": "Colgate Toothpaste 200g",
+        "price": 95,
+        "discount": 8,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "Strong teeth and fresh breath"
+      },
+      {
+        "id": 32,
+        "name": "Britannia Bread",
+        "price": 40,
+        "discount": 5,
+        "category": "Bakery",
+        "image": "https://i.imgur.com/ZXBtVw7.jpg",
+        "description": "Soft and fresh white bread"
+      },
+      {
+        "id": 33,
+        "name": "Mother Dairy Curd 500g",
+        "price": 55,
+        "discount": 4,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/UPrs1EWl.jpg",
+        "description": "Creamy and fresh curd"
+      },
+      {
+        "id": 34,
+        "name": "Tata Tea 500g",
+        "price": 220,
+        "discount": 10,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Rich flavored Indian tea"
+      },
+      {
+        "id": 35,
+        "name": "Sunfeast Marie Light Biscuits",
+        "price": 30,
+        "discount": 4,
+        "category": "Bakery",
+        "image": "https://i.imgur.com/OKKEvyLl.jpg",
+        "description": "Light and healthy biscuits"
+      },
+      {
+        "id": 36,
+        "name": "Coca Cola 1.25L",
+        "price": 60,
+        "discount": 6,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/EXp4v2bl.jpg",
+        "description": "Chilled refreshing soft drink"
+      },
+      {
+        "id": 37,
+        "name": "Loose Onions 1kg",
+        "price": 30,
+        "discount": 0,
+        "category": "Vegetables",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Freshly harvested onions"
+      },
+      {
+        "id": 38,
+        "name": "Loose Tomatoes 1kg",
+        "price": 35,
+        "discount": 0,
+        "category": "Vegetables",
+        "image": "https://i.imgur.com/0y8Ftya.jpg",
+        "description": "Juicy ripe tomatoes"
+      },
+      {
+        "id": 39,
+        "name": "Harpic Toilet Cleaner 500ml",
+        "price": 95,
+        "discount": 7,
+        "category": "Household",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Kills germs and keeps toilet fresh"
+      },
+      {
+        "id": 40,
+        "name": "Domex Disinfectant 1L",
+        "price": 115,
+        "discount": 10,
+        "category": "Household",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "Powerful germ killer"
+      },
+      {
+        "id": 41,
+        "name": "Wheel Detergent 500g",
+        "price": 30,
+        "discount": 5,
+        "category": "Household",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Budget-friendly cleaning"
+      },
+      {
+        "id": 42,
+        "name": "Cadbury Dairy Milk 120g",
+        "price": 110,
+        "discount": 10,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/EXp4v2bl.jpg",
+        "description": "Rich creamy milk chocolate"
+      },
+      {
+        "id": 43,
+        "name": "KitKat Chocolate 4 Finger",
+        "price": 35,
+        "discount": 3,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/UPrs1EWl.jpg",
+        "description": "Crispy wafers in chocolate"
+      },
+      {
+        "id": 44,
+        "name": "Nestle Munch 25g",
+        "price": 10,
+        "discount": 0,
+        "category": "Snacks",
+        "image": "https://i.imgur.com/0y8Ftya.jpg",
+        "description": "Crunchy and chocolaty"
+      },
+      {
+        "id": 45,
+        "name": "Amul Butter 100g",
+        "price": 52,
+        "discount": 5,
+        "category": "Dairy",
+        "image": "https://i.imgur.com/UYiroysl.jpg",
+        "description": "Deliciously smooth butter"
+      },
+      {
+        "id": 46,
+        "name": "Real Fruit Power Mango 1L",
+        "price": 115,
+        "discount": 10,
+        "category": "Beverages",
+        "image": "https://i.imgur.com/MABUbpDl.jpg",
+        "description": "Juicy mango drink with fruit pulp"
+      },
+      {
+        "id": 47,
+        "name": "Fortune Basmati Rice 1kg",
+        "price": 120,
+        "discount": 8,
+        "category": "Grocery",
+        "image": "https://i.imgur.com/KZsmUi2l.jpg",
+        "description": "Long grain aromatic rice"
+      },
+      {
+        "id": 48,
+        "name": "Gala Floor Wiper",
+        "price": 150,
+        "discount": 10,
+        "category": "Household",
+        "image": "https://i.imgur.com/OKKEvyLl.jpg",
+        "description": "Efficient floor cleaning tool"
+      },
+      {
+        "id": 49,
+        "name": "Moov Pain Relief Cream 50g",
+        "price": 95,
+        "discount": 5,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/2nCt3Sbl.jpg",
+        "description": "Fast relief from muscle pain"
+      },
+      {
+        "id": 50,
+        "name": "Boroplus Antiseptic Cream 40ml",
+        "price": 45,
+        "discount": 5,
+        "category": "Personal Care",
+        "image": "https://i.imgur.com/ZXBtVw7.jpg",
+        "description": "Protects skin from dryness and infection"
+      }
+        
+    ]
+  }
+  
